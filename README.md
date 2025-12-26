@@ -1,4 +1,5 @@
 📌 Project Overview
+
 This project is a command-line Expense Tracker application built using Python.
 It allows users to record daily expenses and store them permanently in a JSON file, simulating a lightweight local database.
 
